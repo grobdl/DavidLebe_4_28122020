@@ -8,17 +8,17 @@ body {
 }
 
 h1{
-    font-size: 4rem;
+    font-size: 2rem;
     font-family: Open-Sans;
 }
 
 h2{
-    font-size: 3rem;
+    font-size: 1.5rem;
     z-index: 1;
 }
 
 h3{
-    font-size: 2rem;
+    font-size: 1rem;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -672,7 +672,7 @@ a {
 }
 
 a, p, label, q{
-    font-size: 2rem;
+    font-size: 1rem;
     text-align: justify;
 }
 
