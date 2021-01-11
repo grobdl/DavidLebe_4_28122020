@@ -7,6 +7,9 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+*:focus{
+    outline: 2px #F3976C ridge !important;
+}
 
 h1{
     font-size: 3rem;
