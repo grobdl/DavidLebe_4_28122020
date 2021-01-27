@@ -28,9 +28,9 @@ h3{
     color: #333333!important;
 }
 
-a,
+a
 button {
-    transition: all .3s ease-in-out;=
+    transition: all .3s ease-in-out;
 }
 
 a:hover {
@@ -887,7 +887,7 @@ h4 {
     }
     .bloc-fill-screen .fill-bloc-top-edge,
     .bloc-fill-screen .fill-bloc-bottom-edge {
-        padding: 0 env(safe-area-inset-right, 1px) 20px env(safe-area-inset-left, 1px);
+        padding: 0px 1px 20px 1px;
     }
 }
 
